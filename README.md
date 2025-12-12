@@ -10,4 +10,4 @@ src/main/java/com/pullit/cbt/controller/ReportController.java <br>
 router 페이지 세분화<br>
 chart.js 사용하여 상세리포트 차트 구현<br>
 katex 수식이 필요한 문제들 출력<br>
-상세리포트 PDF 다운로드<br>
+상세리포트 PDF 다운로드 <br>
